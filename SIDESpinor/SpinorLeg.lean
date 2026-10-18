@@ -12,9 +12,10 @@
     vanilla Lean 4 / Int, no Mathlib): −1 = ‖v‖²·ζ(−1) = 12·(−1/12) = −g(2,3), through
     the {2,3}-smooth fiber norm ‖v‖² = 12 and ζ(−1) = −1/12.
 
-  • Route B (this file, metaplectic / quarter-twist; Mathlib / ℂ): −1 = W⁴ = T², where
-    W is the order-8 metaplectic lift of S (W⁴ = −Id, the cocycle) and T = W² is the
-    quarter-twist, acting on the weight-½ spinor line as multiplication by i.
+  • Route B (this file; Mathlib / ℂ): with the quarter-twist read as T = i on the weight-½
+    spinor line, the file derives T² = −1 from i² = −1, and W⁴ = −1 for any complex W with
+    W² = T, witnessed by ζ₈ = (1+i)/√2; the metaplectic lift of S and W⁴ = −Id are the
+    reading, not compiled, and no salt-check is carried in the repository.
 
   The two routes share no nontrivial lemma: Route A never touches ℂ or the twist; Route B
   never touches g, ‖v‖², or ζ. In each, −1 is DERIVED, not typed (salt-checked).
