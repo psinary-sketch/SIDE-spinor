@@ -1,0 +1,15 @@
+SIDESpinor.spectral_volume
+SIDESpinor.aperture_decomp
+SIDESpinor.aperture
+SIDESpinor.phase_unit
+SIDESpinor.spinor_sq
+SIDESpinor.spinor_order_four
+SIDESpinor.orbit_collapse_iff
+SIDESpinor.spinor_forces_half
+SIDESpinor.half_iff_centered_zero
+SIDESpinorLeg.spinor_signature
+SIDESpinorLeg.quarter_twist_order_four
+SIDESpinorLeg.metaplectic_cocycle
+SIDESpinorLeg.zeta8_sq_eq_T
+SIDESpinorLeg.zeta8_pow_four
+SIDESpinorLeg.spinor_leg_derives_neg_one
