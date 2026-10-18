@@ -5,10 +5,13 @@
   The Spinor / Information IDENTIFICATION of σ = 1/2.
 
   Checkpoint 1.2-C in the alternative-proof-paths census
-  (PATHS_TO_THE_CRITICAL_LINE). An IDENTIFICATION kernel — it
-  verifies that the phase-invariant Hermitian observable M = vv†
-  collapses its quarter-twist orbit {v, iv, −v, −iv} to a single
-  fixed point only at the centered origin w = 0, i.e. σ = 1/2.
+  (PATHS_TO_THE_CRITICAL_LINE). An IDENTIFICATION kernel: it
+  verifies the arithmetic of the identification (the |n| list sums
+  to 12, 1 + 6 = 7 and aperture 1/7, |i|^2 = 1, i^2 = -1 and i^4 = 1,
+  and multiplication by i on C fixes only 0) and the real identity
+  sigma = 1/2 iff sigma - 1/2 = 0; the observable M = vv†, its
+  spectrum {0^6, 12} and the reading of w as s - 1/2 are the source
+  papers' content, not compiled here.
   It does NOT claim the Hilbert–Pólya spectral realization, nor
   prove RH on its own.
 
@@ -55,7 +58,8 @@ theorem spinor_order_four : Complex.I ^ 4 = 1 := by
 /-! ## T5 — orbit collapse: the identification
 
 The quarter-twist w ↦ iw fixes only w = 0 (since i ≠ 1). In the
-centered coordinate w = s − 1/2, w = 0 is σ = 1/2. -/
+centered coordinate w = s − 1/2, w = 0 is the point s = 1/2, which
+lies on σ = 1/2; the kernel does not connect w to σ. -/
 
 theorem orbit_collapse_iff (w : ℂ) : Complex.I * w = w ↔ w = 0 := by
   constructor
