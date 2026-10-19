@@ -18,7 +18,7 @@
     reading, not compiled, and no salt-check is carried in the repository.
 
   The two routes share no nontrivial lemma: Route A never touches ℂ or the twist; Route B
-  never touches g, ‖v‖², or ζ. In each, −1 is DERIVED, not typed (salt-checked).
+  never touches g, ‖v‖², or ζ. In each, −1 is DERIVED, not typed.
 -/
 
 import Mathlib
