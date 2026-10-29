@@ -1,0 +1,9 @@
+SIDESpinor.spectral_volume
+SIDESpinor.aperture_decomp
+SIDESpinor.aperture
+SIDESpinor.phase_unit
+SIDESpinor.spinor_sq
+SIDESpinor.spinor_order_four
+SIDESpinor.orbit_collapse_iff
+SIDESpinor.spinor_forces_half
+SIDESpinor.half_iff_centered_zero
