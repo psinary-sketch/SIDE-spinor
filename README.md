@@ -39,4 +39,4 @@ MIT.
 
 ## AI disclosure
 
-*Computational workflow assisted by various LLM instances. Mathematical content, proof strategies, and editorial decisions are the author's.*
+*Computational workflow assisted by various LLM instances. Mathematical content, strategies of argument, and editorial decisions are the author's.*
