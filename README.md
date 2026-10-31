@@ -13,6 +13,8 @@ J. York Seale — https://orcid.org/0009-0008-7993-0310
 
 The Spinor/Information path (Paper 020; IDENTITY_SUBSPACE_PAPER; THE_SPINOR_CALIBRATION) reaches sigma = 1/2 through the phase-invariant Hermitian observable M = vv-dagger on C^7.
 
+Three groups of the compiled statements, named in the path's terms:
+
 - `aperture_decomp` / `aperture` — bright 1 + dark 6 = total 7; aperture = 1/7.
 - `spinor_sq` / `spinor_order_four` — T^2 = -I and T^4 = I: the spinor signature (720-degree return).
 - `half_iff_centered_zero` — the centered-coordinate link sigma = 1/2 iff sigma - 1/2 = 0.
